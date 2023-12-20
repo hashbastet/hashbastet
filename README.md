@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hello, I'm hashbastet.
 
-<!--
-**hashbastet/hashbastet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a cybersecurity student focused on mastering the basics.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  Currently learning and exploring various aspects of cybersecurity.
+-  Passionate about mastering the fundamentals.
+-  Interested in open-source contributions and collaborations.
+
+## Skills
+
+- Cybersecurity Basics
+- Networking
+- Linux
+- Information Security
+- Learning new tools and technologies
+
+## Projects
+
+- Nothing... for now.
+
+## Certifications
+
+- CompTIA Security+ (Expected Completion: June 2024)
+
+## Let's Collaborate
+
+Open to collaborations, discussions, and learning opportunities in cybersecurity.

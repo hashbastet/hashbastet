@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm hashbastet</h1>
-<h3 align="center">A cybersecurity student from Pennsylvania.</h3>
+<p align="center">A cybersecurity student from Pennsylvania.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hashbastet&label=Profile%20views&color=0e75b6&style=flat" alt="hashbastet" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hashbastet" alt="hashbastet" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

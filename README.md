@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm hashbastet</h1>
 <p align="center">A cybersecurity student from Pennsylvania.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hashbastet&label=Profile%20views&color=0e75b6&style=flat" alt="hashbastet" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hashbastet&label=Profile%20views&color=0e75b6&style=flat" alt="hashbastet" /> </p>
 
-<p align="center">Completed Classes:</p>
+<h3 align="center">Completed Classes:</h3>
 <p align="center">The Complete Cybersecurity Course: Hackers Exposed!</p>
 <p align="center">The Complete Cybersecurity Course: Network Security!</p>
 <p align="center"></p>
-<p align="center">Classes In Progress:</p>
-<p align="center"></p>
+<h3 align="center">Classes In Progress:</h3>
 <p align="center">CompTIA Security+ (SY0-701) Complete Course & Exam</p>
 <p align="center">The Complete Cyber Security Course: Anonymous Browsing!</p>
 <p align="center">The Complete Cyber Security Course: End Point Protection!</p>

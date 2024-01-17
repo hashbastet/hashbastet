@@ -6,6 +6,7 @@
 <h3 align="center">Completed Classes:</h3>
 <p align="center">The Complete Cybersecurity Course: Hackers Exposed!</p>
 <p align="center">The Complete Cybersecurity Course: Network Security!</p>
+<p align="center">Ethical Hacking University (Android App)</p>
 <p align="center"></p>
 <h3 align="center">Classes In Progress:</h3>
 <p align="center">CompTIA Security+ (SY0-701) Complete Course & Exam</p>
